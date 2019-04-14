@@ -12,13 +12,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Code Review
 Travel Websit  
 
+### Software Design/Engineering
+
+Enhancement One 
+  Improve code readability and efficency 
 
 ### Algorithm
-Jason
+Enhancement Two
+   MD5 Hashing
 
 ### DataBase
-
-CS499
+Enhancement Three
+  Saving UserID and Password
 
 ### Self Assessment 
 Final Project
