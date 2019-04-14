@@ -47,4 +47,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://github.com/jtluu/Travel-Website/doc_cloud.pdf) 
+Having trouble with Pages? Check out our [documentation](https://github.com/jtluu/Travel-Website/blob/master/doc_cloud.pdf) 
