@@ -14,19 +14,19 @@ Travel Websit
 
 ### Software Design/Engineering
 
-Enhancement One 
+Enhancement One  
   Improve code readability and efficency 
 
 ### Algorithm
-Enhancement Two
+Enhancement Two  
    MD5 Hashing
 
 ### DataBase
-Enhancement Three
+Enhancement Three  
   Saving UserID and Password
 
 ### Self Assessment 
-Final Project
+Final Project  
 
 - Bulleted
 - List
