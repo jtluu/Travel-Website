@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ### Code Review
-Travel Websit  
+Travel Website  
 
 ### Software Design/Engineering
 
