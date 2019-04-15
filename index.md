@@ -29,7 +29,7 @@ Enhancement Three
 [pdf doc](https://docs.google.com/viewer?url=https://github.com/jtluu/travel-Website/raw/master/doc_cloud.pdf)
 
 
-<video src="https://github.com/jtluu/travel-Website/blob/master/file_example_MOV_480_700kB.mov?raw=true" width="320" height="200" controls preload></video>
+<video src="https://github.com/jtluu/travel-Website/blob/master/file_example_MOV_480_700kB.mov?raw=true" width="420" height="300" controls preload></video>
 
 
 
