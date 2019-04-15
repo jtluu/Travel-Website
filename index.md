@@ -26,13 +26,13 @@ Enhancement Three
   Saving UserID and Password
   
   
-[pdf doc](https://docs.google.com/viewer?url=https://github.com/bodichHub/testrun/raw/master/doc_cloud.pdf)
+[pdf doc](https://docs.google.com/viewer?url=https://github.com/jtluu/travel-Website/raw/master/doc_cloud.pdf)
 
-[movie](https://docs.google.com/viewer?url=https://github.com/bodichHub/testrun/blob/master/file_example_MOV_480_700kB.mov?raw=true)
+[movie](https://docs.google.com/viewer?url=https://github.com/jtluutravel-Website/blob/master/file_example_MOV_480_700kB.mov?raw=true)
 
-<video src="https://github.com/bodichHub/testrun/blob/master/SampleVideo_640x360_1mb.mp4?raw=true" width="320" height="200" controls preload></video>
+<video src="https://github.com/jtluu/travle-Website/blob/master/SampleVideo_640x360_1mb.mp4?raw=true" width="320" height="200" controls preload></video>
 
-<video src="https://github.com/bodichHub/testrun/blob/master/file_example_MOV_480_700kB.mov?raw=true" width="320" height="200" controls preload></video>
+<video src="https://github.com/jtluu/travel-Website/blob/master/file_example_MOV_480_700kB.mov?raw=true" width="320" height="200" controls preload></video>
 
 
 
