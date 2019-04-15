@@ -30,7 +30,7 @@ Enhancement Three
 
 [movie](https://docs.google.com/viewer?url=https://github.com/jtluutravel-Website/blob/master/file_example_MOV_480_700kB.mov?raw=true)
 
-<video src="https://github.com/jtluu/travle-Website/blob/master/SampleVideo_640x360_1mb.mp4?raw=true" width="320" height="200" controls preload></video>
+
 
 <video src="https://github.com/jtluu/travel-Website/blob/master/file_example_MOV_480_700kB.mov?raw=true" width="320" height="200" controls preload></video>
 
