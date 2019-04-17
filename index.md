@@ -17,7 +17,7 @@ Travel Website
 ### Software Design/Engineering
 Enhancement One  
 Improve code readability and efficency 
-[Software Design/Engineering](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/Sofware_Design.pdf)
+[Software Design/Engineering](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/Software_Design.pdf)
 
 
 ### Algorithm
