@@ -11,27 +11,27 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Code Review
 Travel Website  
-[documentation](https://github.com/jtluu/Travel-Website/doc_cloud.pdf) 
-### Software Design/Engineering
+<video src="https://github.com/jtluu/travel-Website/blob/master/file_example_MOV_480_700kB.mov?raw=true" width="420" height="300" controls preload></video>
 
+
+### Software Design/Engineering
 Enhancement One  
   Improve code readability and efficency 
-[documentation](https://github.com/jtluu/Travel-Website/Software Design.pdf) 
+[Software Design/Engineering](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/Sofware_Design.pdf)
+
+
 ### Algorithm
 Enhancement Two  
    MD5 Hashing
+[Data_Structure](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/Data_Structure.pdf)
+
 
 ### DataBase
 Enhancement Three  
   Saving UserID and Password
   
+[DataBase](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/DataBase.pdf)
   
-[pdf doc](https://docs.google.com/viewer?url=https://github.com/jtluu/travel-Website/raw/master/doc_cloud.pdf)
-
-
-<video src="https://github.com/jtluu/travel-Website/blob/master/file_example_MOV_480_700kB.mov?raw=true" width="420" height="300" controls preload></video>
-
-
 
 ### Self Assessment 
 Final Project  
