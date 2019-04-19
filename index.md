@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-#I'm a PROGRAMMER!
+# Hello, I'm a PROGRAMMER!
 
 You can use the [editor on GitHub](https://github.com/jtluu/Travel-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
