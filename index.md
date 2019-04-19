@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Code Review
 Travel Website  
-<video src="https://github.com/jtluu/travel-Website/blob/master/codeReview1.bcpf?raw=true" width="420" height="300" controls preload></video>
+<video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_01.mov?raw=true" width="420" height="300" controls preload></video>
 
 
 ### Software Design/Engineering
