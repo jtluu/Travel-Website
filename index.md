@@ -15,6 +15,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Part 1
 <video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_01.mov?raw=true" width="420" height="300" controls preload></video>
 
+
+
 Part 2
 <video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_02.mov?raw=true" width="420" height="300" controls preload></video>
 
@@ -44,23 +46,7 @@ Enhancement Three
 ### Self Assessment 
 Final Project  
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or contact
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jtluu/Travel-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://github.com/jtluu/Travel-Website/blob/master/doc_cloud.pdf) 
