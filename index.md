@@ -14,9 +14,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 Part 1
 <video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_01.mov?raw=true" width="420" height="300" controls preload></video>
-
-
-
+  
+    
 Part 2
 <video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_02.mov?raw=true" width="420" height="300" controls preload></video>
 
