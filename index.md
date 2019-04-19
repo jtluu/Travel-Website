@@ -13,6 +13,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Travel Website  
 <video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_01.mov?raw=true" width="420" height="300" controls preload></video>
 
+Done uploading
+
 
 ### Software Design/Engineering
 Enhancement One  
