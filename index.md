@@ -9,9 +9,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for  
 [Software Development](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/DataBase.pdf)
 
-### Code Review
-Travel Website  
+### Travel Website Code Review
+
+
+Part 1
 <video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_01.mov?raw=true" width="420" height="300" controls preload></video>
+
+Part 2
+<video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_02.mov?raw=true" width="420" height="300" controls preload></video>
 
 Done uploading
 
