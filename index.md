@@ -26,7 +26,7 @@ Enhancement Two
 [Data_Structure](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/Data_Structure.pdf)
 
 ### DataBase
-Enhancement Three  
+Enhancement Three    
   - Saving UserID and Password  
   
 [DataBase](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/DataBase.pdf)
