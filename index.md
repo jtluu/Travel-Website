@@ -6,9 +6,6 @@ This web page reflects my experiences during the time I spent study of Computer 
 
 ### Self-Assessment 
   - Final Project  
-### Software Development
-
-[Software Development](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/DataBase.pdf)
 
 ### Travel Website Code Review
 
