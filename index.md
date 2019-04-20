@@ -27,8 +27,7 @@ Enhancement Two
 
 ### DataBase
 Enhancement Three    
-  - Saving UserID and Password  
-  
+  - Saving UserID and Password     
 [DataBase](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/DataBase.pdf)
  
 
