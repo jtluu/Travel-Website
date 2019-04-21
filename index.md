@@ -1,6 +1,4 @@
-# Hello, I'm a PROGRAMMER!
-
-## Welcome to my GitHub Pages
+# Welcome To My GitHub Pages
 
 This web page reflects my experiences during the time I spent study of Computer Science program at Southern New Hampshire University. In this page of my self-assessment, it showcases the coursework that I had learned during the time at SNHU apply to the professional career.
 
