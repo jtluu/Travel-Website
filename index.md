@@ -4,10 +4,10 @@ This web page reflects my experiences during the time I spent study of Computer 
 Below, you will find the artifacts and narative of my work for this capstone project, CS-499.  
 It includes:   
     <p>1.  Professional Self-Assessment</p>
-    <p>2.  Code Review</p>  
-    <p>3.  Software Design/Engineering</p>  
-    <p>4.  Algorithm</p> 
-    <p>5.  DataBase</p>  
+    <p>2.  Code Review</p>
+    <p>3.  Software Design/Engineering</p>
+    <p>4.  Algorithm</p>
+    <p>5.  DataBase</p>
 
 ### Professional Self-Assessment 
   - Final Project  
