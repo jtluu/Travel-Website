@@ -2,12 +2,17 @@
 
 ## Welcome to my GitHub Pages
 
-This web page reflects my experiences during the time I spent study of Computer Science program at Southern New Hampshire University. In this page of my self-assessment showcase the coursework that I had learned during the time at SNHU apply to the professional career.
+This web page reflects my experiences during the time I spent study of Computer Science program at Southern New Hampshire University. In this page of my self-assessment, it showcases the coursework that I had learned during the time at SNHU apply to the professional career.
 
 ### Self-Assessment 
   - Final Project  
 
 ### Travel Website Code Review
+Part 1  
+<video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_01.mov?raw=true" width="420" height="300" controls preload></video>
+   
+Part 2  
+<video src="https://github.com/jtluu/travel-Website/blob/master/CodeReview_02.mov?raw=true" width="420" height="300" controls preload></video>
 
 
 
