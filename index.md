@@ -32,6 +32,3 @@ Part 2
   - Saving UserID and Password  
   [DataBase](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/DataBase.pdf)
  
-
-
-Having trouble with Pages? Check out our [documentation](https://github.com/jtluu/Travel-Website/blob/master/doc_cloud.pdf) 
