@@ -4,8 +4,9 @@
 
 This web page reflects my experiences during the time I spent study of Computer Science program at Southern New Hampshire University. In this page of my self-assessment, it showcases the coursework that I had learned during the time at SNHU apply to the professional career.
 
-### Self-Assessment 
+### Professional Self-Assessment 
   - Final Project  
+  [Self Assessment](https://docs.google.com/viewer?url=https://github.com/jtluu/Travel-Website/raw/master/Self-Assessment.pdf)  
 
 ### Travel Website Code Review
 Part 1  
