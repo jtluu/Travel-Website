@@ -3,6 +3,7 @@
 This web page reflects my experiences during the time I spent study of Computer Science program at Southern New Hampshire University. In this page of my self-assessment, it showcases the coursework that I had learned during the time at SNHU apply to the professional career.  
 Below, you will find the artifacts and narative of my work for this capstone project, CS-499.  
 It includes:   
+     
      1.  Professional Self-Assessment  
      2.  Code Review  
      3.  Software Design/Engineering  
